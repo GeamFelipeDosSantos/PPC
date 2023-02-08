@@ -5,7 +5,7 @@ package model;
  * @author Geam
  */
 public class Tabuleiro {
-
+//
     public static final int DIMENSAO_TABULEIRO = 8;
     public static final int NUMERO_CELULAS = DIMENSAO_TABULEIRO * DIMENSAO_TABULEIRO;
     public static int[][] tabuleiro = new int[Tabuleiro.DIMENSAO_TABULEIRO][Tabuleiro.DIMENSAO_TABULEIRO];
